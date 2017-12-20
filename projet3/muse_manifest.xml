@@ -1,0 +1,375 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taborin.io/Shibainu" resolutions="1x,2x" timestamp="1513745979326">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-gabarit.css" crc="473085450" ref="la-race:shiba-sur-youtube:index:caractéristiques:photos"/>
+    <file name="la-race.css" crc="376303904" ref="la-race"/>
+    <file name="shiba-sur-youtube.css" crc="4190526147" ref="shiba-sur-youtube"/>
+    <file name="index.css" crc="500929457" ref="index"/>
+    <file name="caract_ristiques.css" crc="37038419" ref="caractéristiques"/>
+    <file name="photos.css" crc="69510897" ref="photos"/>
+  </folder>
+  <folder name="assets">
+    <file name="favicon.ico" crc="117411547" seo="true" mt="1513645499000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>la-race:phone>caractéristiques:phone>photos:phone>shiba-sur-youtube:tablet>index:tablet>la-race:tablet>caractéristiques:tablet>photos:tablet>shiba-sur-youtube:index:la-race:caractéristiques:photos:shiba-sur-youtube"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>la-race:phone>caractéristiques:phone>photos:phone>shiba-sur-youtube:tablet>index:tablet>la-race:tablet>caractéristiques:tablet>photos:tablet>shiba-sur-youtube:index:la-race:caractéristiques:photos:shiba-sur-youtube"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>la-race:phone>caractéristiques:phone>photos:phone>shiba-sur-youtube:tablet>index:tablet>la-race:tablet>caractéristiques:tablet>photos:tablet>shiba-sur-youtube:index:la-race:caractéristiques:photos:shiba-sur-youtube"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>la-race:phone>caractéristiques:phone>photos:phone>shiba-sur-youtube:tablet>index:tablet>la-race:tablet>caractéristiques:tablet>photos:tablet>shiba-sur-youtube:index:la-race:caractéristiques:photos:shiba-sur-youtube"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>la-race:phone>caractéristiques:phone>photos:phone>shiba-sur-youtube:tablet>index:tablet>la-race:tablet>caractéristiques:tablet>photos:tablet>shiba-sur-youtube:index:la-race:caractéristiques:photos:shiba-sur-youtube"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>la-race:phone>caractéristiques:phone>photos:phone>shiba-sur-youtube:tablet>index:tablet>la-race:tablet>caractéristiques:tablet>photos:tablet>shiba-sur-youtube:index:la-race:caractéristiques:photos:shiba-sur-youtube"/>
+  </folder>
+  <folder name="images">
+    <file name="fondmuse320x328.jpg" crc="3880046991" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fondmuse320x328_2x.jpg" crc="297625325" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="larme.svg" crc="3783820721" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="larme_poster_.png" crc="402094173" ref="phone>index"/>
+    <file name="lunettes.svg" crc="3843055361" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lunettes_poster_.png" crc="4087237440" ref="phone>index"/>
+    <file name="sourire.svg" crc="152971213" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sourire_poster_.png" crc="4044743921" ref="phone>index"/>
+    <file name="paw-print-.svg" crc="4202754950" seo="true" ref="phone>index:phone>la-race:phone>caractéristiques:phone>photos:phone>shiba-sur-youtube:tablet>index:tablet>la-race:tablet>caractéristiques:tablet>photos:tablet>shiba-sur-youtube:index:la-race:caractéristiques:photos:shiba-sur-youtube">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="shiba-sur-youtube" alt=""/>
+      <caption webpage="shiba-sur-youtube" alt=""/>
+      <caption webpage="shiba-sur-youtube" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="paw-print-_poster_.png" crc="3897748871" ref="phone>index"/>
+    <file name="race.svg" crc="190238605" seo="true" ref="phone>la-race:tablet>la-race:la-race">
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="la-race" alt=""/>
+    </file>
+    <file name="race_poster_.png" crc="190461761" ref="phone>la-race"/>
+    <file name="wink.svg" crc="193519102" seo="true" ref="phone>la-race:phone>caractéristiques:tablet>la-race:tablet>caractéristiques:la-race:caractéristiques">
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+    </file>
+    <file name="wink_poster_.png" crc="70234178" ref="phone>la-race"/>
+    <file name="graphic.svg" crc="3955760003" seo="true" ref="phone>la-race:tablet>la-race:la-race">
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="la-race" alt=""/>
+    </file>
+    <file name="graphic_poster_.png" crc="4208239616" ref="phone>la-race"/>
+    <file name="paw.svg" crc="4071633075" seo="true" ref="phone>la-race:tablet>la-race:la-race">
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="la-race" alt=""/>
+    </file>
+    <file name="paw_poster_.png" crc="3930403380" ref="phone>la-race"/>
+    <file name="gender.svg" crc="510734087" seo="true" ref="phone>caractéristiques:tablet>caractéristiques:caractéristiques">
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+    </file>
+    <file name="gender_poster_.png" crc="151192873" ref="phone>caractéristiques"/>
+    <file name="vie.svg" crc="3829358960" seo="true" ref="phone>caractéristiques:tablet>caractéristiques:caractéristiques">
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+    </file>
+    <file name="vie_poster_.png" crc="205079683" ref="phone>caractéristiques"/>
+    <file name="caractèristique.svg" crc="510007771" seo="true" ref="phone>caractéristiques:tablet>caractéristiques:caractéristiques">
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+    </file>
+    <file name="caractèristique_poster_.png" crc="49935774" ref="phone>caractéristiques"/>
+    <file name="kira01100x134.jpg" crc="527503314" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kira01100x134_2x.jpg" crc="133778000" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="moka03100x134.jpg" crc="3910881769" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="moka03100x134_2x.jpg" crc="4264995002" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="nala01100x134.jpg" crc="4102566833" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="nala01100x134_2x.jpg" crc="4127886965" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="skye01100x134.jpg" crc="4278992382" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="skye01100x134_2x.jpg" crc="385619180" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="tsuki100x152.jpg" crc="3882575242" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="tsuki100x152_2x.jpg" crc="24725308" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="yoshi01100x134.jpg" crc="108169844" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="yoshi01100x134_2x.jpg" crc="4092117979" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="solo01100x134.jpg" crc="436189268" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="solo01100x134_2x.jpg" crc="3850763195" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="hana01100x100.jpg" crc="402936260" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="hana01100x100_2x.jpg" crc="4148732544" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kirabc01100x134.jpg" crc="4155230046" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kirabc01100x134_2x.jpg" crc="495377059" seo="true" ref="phone>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="facebook.svg" crc="488558804" seo="true" ref="phone>photos:tablet>photos:photos">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="facebook_poster_.png" crc="141691820" ref="phone>photos"/>
+    <file name="winktongue.svg" crc="239702721" seo="true" ref="phone>shiba-sur-youtube:tablet>shiba-sur-youtube:shiba-sur-youtube">
+      <caption webpage="shiba-sur-youtube" alt=""/>
+      <caption webpage="shiba-sur-youtube" alt=""/>
+      <caption webpage="shiba-sur-youtube" alt=""/>
+    </file>
+    <file name="winktongue_poster_.png" crc="451828295" ref="phone>shiba-sur-youtube"/>
+    <file name="coeur.svg" crc="3953767029" seo="true" ref="phone>shiba-sur-youtube:tablet>shiba-sur-youtube:shiba-sur-youtube">
+      <caption webpage="shiba-sur-youtube" alt=""/>
+      <caption webpage="shiba-sur-youtube" alt=""/>
+      <caption webpage="shiba-sur-youtube" alt=""/>
+    </file>
+    <file name="coeur_poster_.png" crc="4030726025" ref="phone>shiba-sur-youtube"/>
+    <file name="fondmuse770x786.jpg" crc="492820908" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fondmuse770x786_2x.jpg" crc="4193315009" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tsuki135x205.jpg" crc="96127049" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="tsuki135x205_2x.jpg" crc="468306552" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="hana01142x142.jpg" crc="18471502" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="hana01142x142_2x.jpg" crc="221160526" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kimo01142x191.jpg" crc="4184099364" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kimo01142x191_2x.jpg" crc="63594620" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kira01142x190.jpg" crc="364800444" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kira01142x190_2x.jpg" crc="4047042659" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kirabc01142x190.jpg" crc="4017921315" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kirabc01142x190_2x.jpg" crc="309292285" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="moka03142x190.jpg" crc="3859440640" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="moka03142x190_2x.jpg" crc="428411669" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="nala01141x189.jpg" crc="157161009" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="nala01141x189_2x.jpg" crc="380321354" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="skye01142x190.jpg" crc="195113753" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="skye01142x190_2x.jpg" crc="4116947033" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="yoshi01142x190.jpg" crc="482385520" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="yoshi01142x190_2x.jpg" crc="161119309" seo="true" ref="tablet>photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="fondmuse.jpg" crc="3861661931" seo="true" ref="index:la-race:caractéristiques:photos:shiba-sur-youtube">
+      <caption webpage="index" alt=""/>
+      <caption webpage="la-race" alt=""/>
+      <caption webpage="shiba-sur-youtube" alt=""/>
+      <caption webpage="caractéristiques" alt=""/>
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="hana01.jpg" crc="4256927172" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="hana01_2x.jpg" crc="412530707" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kimo01.jpg" crc="69925245" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kimo01_2x.jpg" crc="464039058" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kira01.jpg" crc="4279915207" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kira01_2x.jpg" crc="50204800" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kira02.jpg" crc="488957336" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kira02_2x.jpg" crc="4181639527" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kirabc01.jpg" crc="4029489500" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="kirabc01_2x.jpg" crc="4092939489" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="maki01.jpg" crc="253393596" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="moka01.jpg" crc="4001505968" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="moka02.jpg" crc="3855675940" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="moka03.jpg" crc="4076808990" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="moka03_2x.jpg" crc="3819423454" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="nala01.jpg" crc="194138820" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="nala01_2x.jpg" crc="4117865706" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="saku01.jpg" crc="114703633" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="saku01_2x.jpg" crc="48776152" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="sansnom-crop-u2848.jpg" crc="4162176411" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="sansnom-crop-u2848_2x.jpg" crc="212807421" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="skye01.jpg" crc="472240517" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="skye01_2x.jpg" crc="3945544608" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="solo01.jpg" crc="4211841387" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="solo01_2x.jpg" crc="152436946" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="tsuki.jpg" crc="342731141" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="tsuki_2x.jpg" crc="249357198" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="yoshi01.jpg" crc="4249456312" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="yoshi01_2x.jpg" crc="4169506923" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-gabarit.css" crc="3768521920" ref="tablet>la-race:tablet>shiba-sur-youtube:tablet>index:tablet>photos:tablet>caractéristiques"/>
+      <file name="la-race.css" crc="4134854671" ref="tablet>la-race"/>
+      <file name="shiba-sur-youtube.css" crc="138286391" ref="tablet>shiba-sur-youtube"/>
+      <file name="index.css" crc="3922724161" ref="tablet>index"/>
+      <file name="photos.css" crc="4089859487" ref="tablet>photos"/>
+      <file name="caract_ristiques.css" crc="4218980506" ref="tablet>caractéristiques"/>
+    </folder>
+    <file name="index.html" crc="66149811" seo="true" mt="1513708699467" redirect="true"/>
+    <file name="la-race.html" crc="4039098769" seo="true" mt="1513708061306" redirect="true"/>
+    <file name="caractéristiques.html" crc="435230075" seo="true" mt="1513708061385" redirect="true"/>
+    <file name="photos.html" crc="3791056918" seo="true" mt="1513708061472" redirect="true"/>
+    <file name="shiba-sur-youtube.html" crc="4036823562" seo="true" mt="1513708061555" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-gabarit.css" crc="247813870" ref="phone>la-race:phone>photos:phone>caractéristiques:phone>index:phone>shiba-sur-youtube"/>
+      <file name="la-race.css" crc="318611750" ref="phone>la-race"/>
+      <file name="photos.css" crc="3868910612" ref="phone>photos"/>
+      <file name="caract_ristiques.css" crc="3915928822" ref="phone>caractéristiques"/>
+      <file name="index.css" crc="4200442277" ref="phone>index"/>
+      <file name="shiba-sur-youtube.css" crc="4079452037" ref="phone>shiba-sur-youtube"/>
+    </folder>
+    <file name="index.html" crc="4048005555" seo="true" mt="1513710712453" redirect="true"/>
+    <file name="la-race.html" crc="58162333" seo="true" mt="1513711132914" redirect="true"/>
+    <file name="caractéristiques.html" crc="165106152" seo="true" mt="1513711246754" redirect="true"/>
+    <file name="photos.html" crc="3906083797" seo="true" mt="1513711549771" redirect="true"/>
+    <file name="shiba-sur-youtube.html" crc="4056312114" seo="true" mt="1513711834607" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3778155906" seo="true" mt="1513708061639" redirect="true"/>
+  <file name="la-race.html" crc="128644439" seo="true" mt="1513708061639" redirect="true"/>
+  <file name="caractéristiques.html" crc="252023810" seo="true" mt="1513708061640" redirect="true"/>
+  <file name="photos.html" crc="12763950" seo="true" mt="1513708061640" redirect="true"/>
+  <file name="shiba-sur-youtube.html" crc="3903065958" seo="true" mt="1513708061640" redirect="true"/>
+</manifest>
