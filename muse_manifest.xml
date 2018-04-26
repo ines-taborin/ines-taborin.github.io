@@ -1,0 +1,66 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taborin.io" resolutions="1x" timestamp="1524712478560">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-gabarit.css" crc="4091247581" ref="index:portfolio:cv"/>
+    <file name="index.css" crc="3766456964" ref="index"/>
+    <file name="portfolio.css" crc="101079438" ref="portfolio"/>
+    <file name="cv.css" crc="496789809" ref="cv"/>
+  </folder>
+  <folder name="assets">
+    <file name="collectifcreatif2016_01_7e4c.jpg" crc="318311058" seo="true" mt="1512137011000"/>
+    <file name="identitevisuelle.jpg" crc="4203544830" seo="true" mt="1524706294000"/>
+    <file name="outdoor-mockup-template-03.jpg" crc="338352006" seo="true" mt="1491929835000"/>
+    <file name="collectifcreatif2016_07_7e4c.jpg" crc="63374140" seo="true" mt="1512136898000"/>
+    <file name="cartedevisitemockup.jpg" crc="75641236" seo="true" mt="1524707648000"/>
+    <file name="collectifcreatif2016_06_7e4c.jpg" crc="54159174" seo="true" mt="1512136915000"/>
+    <file name="collectifcreatif2016_02_7e4c.jpg" crc="3798745628" seo="true" mt="1512136992000"/>
+    <file name="cv.pdf" crc="460737914" seo="true" mt="1524712152000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:cv:portfolio"/>
+    <file name="museutils.js" crc="3803043152" ref="index:cv:portfolio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:cv:portfolio"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:cv:portfolio"/>
+    <file name="webpro.js" crc="242022427" ref="index:cv:portfolio"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:cv:portfolio"/>
+    <file name="require.js" crc="4157109226" ref="index:cv:portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3987760695" ref="index"/>
+    <file name="hamburger_ham.svg" crc="109457020" ref="index"/>
+    <file name="hamburger_ham_poster_u448.png" crc="240000081" ref="index"/>
+    <file name="logo.svg" crc="4010395101" seo="true" ref="index:cv:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="447761723" ref="index"/>
+    <file name="002-instagram.svg" crc="3802473722" seo="true" ref="index:cv:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="002-instagram_poster_.png" crc="104228402" ref="index"/>
+    <file name="003-behance.svg" crc="4071241468" seo="true" ref="index:cv:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="003-behance_poster_.png" crc="4226604092" ref="index"/>
+    <file name="001-linkedin.svg" crc="3818409622" seo="true" ref="index:cv:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="001-linkedin_poster_.png" crc="201367001" ref="index"/>
+    <file name="ok.svg" crc="3979125217" seo="true" ref="index:cv:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ok_poster_.png" crc="4052549606" ref="index"/>
+  </folder>
+  <file name="index.html" crc="480905788" seo="true" mt="1524712381408" redirect="true"/>
+  <file name="cv.html" crc="3886162340" seo="true" mt="1524712381408" redirect="true"/>
+  <file name="portfolio.html" crc="3924997413" seo="true" mt="1524712381408" redirect="true"/>
+</manifest>
