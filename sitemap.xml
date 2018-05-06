@@ -2,12 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://taborin.io/index.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://taborin.io/images/logo.svg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://taborin.io/images/002-instagram.svg</image:loc>
     </image:image>
@@ -19,16 +16,16 @@
     </image:image>
     <image:image>
       <image:loc>http://taborin.io/images/ok.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/logo.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://taborin.io/cv.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://taborin.io/images/logo.svg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://taborin.io/images/002-instagram.svg</image:loc>
     </image:image>
@@ -41,15 +38,18 @@
     <image:image>
       <image:loc>http://taborin.io/images/ok.svg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://taborin.io/portfolio.html</loc>
-    <lastmod>2018-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://taborin.io/images/logo.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/fraises.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://taborin.io/montreal_creatif.html</loc>
+    <lastmod>2018-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
       <image:loc>http://taborin.io/images/002-instagram.svg</image:loc>
     </image:image>
@@ -62,40 +62,385 @@
     <image:image>
       <image:loc>http://taborin.io/images/ok.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_09.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_08.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_0160x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_0960x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_0860x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_0460x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_0560x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_0660x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_0760x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_0360x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/mtlcrea_0260x40.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://taborin.io/assets/outdoor-mockup-template-03.jpg</loc>
-    <lastmod>2017-04-11</lastmod>
+    <loc>http://taborin.io/identite_ctallboys.html</loc>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://taborin.io/images/002-instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/003-behance.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/001-linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ok.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ctallboys_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ctallboys_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ctallboys_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ctallboys_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ctallboys_0468x46.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ctallboys_0268x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ctallboys_0167x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ctallboys_0368x45.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://taborin.io/assets/identitevisuelle.jpg</loc>
-    <lastmod>2018-04-25</lastmod>
+    <loc>http://taborin.io/packaging_barres_glacees.html</loc>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://taborin.io/images/002-instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/003-behance.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/001-linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ok.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/packaging_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/packaging_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/packaging_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/packaging_0160x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/packaging_0260x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/packaging_0360x41.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://taborin.io/assets/collectifcreatif2016_07_7e4c.jpg</loc>
-    <lastmod>2017-12-01</lastmod>
+    <loc>http://taborin.io/contact.html</loc>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://taborin.io/images/002-instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/003-behance.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/001-linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ok.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/002-mobile-phone.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/001-email.svg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://taborin.io/assets/collectifcreatif2016_02_7e4c.jpg</loc>
-    <lastmod>2017-12-01</lastmod>
+    <loc>http://taborin.io/laboite.html</loc>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://taborin.io/images/002-instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/003-behance.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/001-linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ok.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/collectifcreatif2016_01_7e4c-crop-u1694.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/collectifcreatif2016_02_7e4c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/collectifcreatif2016_06_7e4c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/collectifcreatif2016_07_7e4c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/collectifcreatif2016_10_7e4c-crop-u2393.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/img_0287-crop-u2413.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/img_0293-crop-u2433.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/collectifcreatif2016_01_7e4c34x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/collectifcreatif2016_02_7e4c60x43.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/collectifcreatif2016_06_7e4c60x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/collectifcreatif2016_07_7e4c60x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/collectifcreatif2016_10_7e4c34x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/img_028734x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/img_029334x45.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://taborin.io/assets/cv.pdf</loc>
-    <lastmod>2018-04-25</lastmod>
+    <loc>http://taborin.io/identite_sepaq.html</loc>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://taborin.io/images/002-instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/003-behance.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/001-linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ok.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_09.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_08.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_1258x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_1158x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_0460x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_0360x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_0260x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_0160x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_1060x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_0960x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_0860x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_0760x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_0660x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/sepaq_0560x45.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://taborin.io/assets/cartedevisitemockup.jpg</loc>
-    <lastmod>2018-04-25</lastmod>
+    <loc>http://taborin.io/identite_visionnaire.html</loc>
+    <lastmod>2018-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://taborin.io/images/002-instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/003-behance.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/001-linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/ok.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/visionnaire_04.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/visionnaire_01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/visionnaire_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/visionnaire_03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/visionnaire_05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/visionnaire_0460x43.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/visionnaire_0160x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/visionnaire_0260x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/visionnaire_0360x40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://taborin.io/images/visionnaire_0560x45.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://taborin.io/assets/ctallboys_04.jpg</loc>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -106,8 +451,32 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://taborin.io/assets/collectifcreatif2016_06_7e4c.jpg</loc>
-    <lastmod>2017-12-01</lastmod>
+    <loc>http://taborin.io/assets/mtlcrea_01.jpg</loc>
+    <lastmod>2018-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taborin.io/assets/sepaq_12.jpg</loc>
+    <lastmod>2018-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taborin.io/assets/cv.pdf</loc>
+    <lastmod>2018-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taborin.io/assets/visionnaire_04.jpg</loc>
+    <lastmod>2018-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://taborin.io/assets/packaging_02.jpg</loc>
+    <lastmod>2018-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
