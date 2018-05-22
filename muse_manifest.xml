@@ -1,0 +1,414 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taborin.io" resolutions="1x" timestamp="1525641063607">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-gabarit.css" crc="128198100" ref="identite_sepaq:index:montreal_creatif:packaging_barres_glacees:contact:identite_visionnaire:laboite:identite_ctallboys:cv"/>
+    <file name="identite_sepaq.css" crc="4261643681" ref="identite_sepaq"/>
+    <file name="iefonts_identite_sepaq.css" crc="3815724058" ref="identite_sepaq"/>
+    <file name="index.css" crc="215654771" ref="index"/>
+    <file name="iefonts_index.css" crc="451156978" ref="index"/>
+    <file name="montreal_creatif.css" crc="4070239880" ref="montreal_creatif"/>
+    <file name="iefonts_montreal_creatif.css" crc="41597141" ref="montreal_creatif"/>
+    <file name="packaging_barres_glacees.css" crc="4293732288" ref="packaging_barres_glacees"/>
+    <file name="iefonts_packaging_barres_glacees.css" crc="4063854297" ref="packaging_barres_glacees"/>
+    <file name="contact.css" crc="207307158" ref="contact"/>
+    <file name="iefonts_contact.css" crc="363608804" ref="contact"/>
+    <file name="identite_visionnaire.css" crc="4115793037" ref="identite_visionnaire"/>
+    <file name="iefonts_identite_visionnaire.css" crc="4215774577" ref="identite_visionnaire"/>
+    <file name="laboite.css" crc="3998883406" ref="laboite"/>
+    <file name="iefonts_laboite.css" crc="3976539125" ref="laboite"/>
+    <file name="identite_ctallboys.css" crc="3766781296" ref="identite_ctallboys"/>
+    <file name="iefonts_identite_ctallboys.css" crc="3927029682" ref="identite_ctallboys"/>
+    <file name="cv.css" crc="3929000646" ref="cv"/>
+    <file name="iefonts_cv.css" crc="38115854" ref="cv"/>
+  </folder>
+  <folder name="assets">
+    <file name="cv.pdf" crc="460737914" seo="true" mt="1524712478000"/>
+    <file name="ctallboys_04.jpg" crc="3761826672" seo="true" mt="1525625101000"/>
+    <file name="packaging_02.jpg" crc="349374833" seo="true" mt="1525626176000"/>
+    <file name="visionnaire_04.jpg" crc="162243470" seo="true" mt="1525625267000"/>
+    <file name="collectifcreatif2016_01_7e4c.jpg" crc="318311058" seo="true" mt="1512137010000"/>
+    <file name="sepaq_12.jpg" crc="3777703098" seo="true" mt="1525631784000"/>
+    <file name="mtlcrea_01.jpg" crc="3818597784" seo="true" mt="1525626126000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact"/>
+    <file name="require.js" crc="7928878" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys"/>
+    <file name="touchswipe.js" crc="4075097462" ref="montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3987760695" ref="index"/>
+    <file name="hamburger_ham.svg" crc="109457020" ref="index"/>
+    <file name="hamburger_ham_poster_u711.png" crc="3818573227" ref="index"/>
+    <file name="002-instagram.svg" crc="3802473722" seo="true" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact">
+      <caption webpage="packaging_barres_glacees" alt=""/>
+      <caption webpage="identite_ctallboys" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboite" alt=""/>
+      <caption webpage="identite_sepaq" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="identite_visionnaire" alt=""/>
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="002-instagram_poster_.png" crc="4211970850" ref="index"/>
+    <file name="003-behance.svg" crc="4071241468" seo="true" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact">
+      <caption webpage="packaging_barres_glacees" alt=""/>
+      <caption webpage="identite_ctallboys" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboite" alt=""/>
+      <caption webpage="identite_sepaq" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="identite_visionnaire" alt=""/>
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="003-behance_poster_.png" crc="3781346776" ref="index"/>
+    <file name="001-linkedin.svg" crc="3818409622" seo="true" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact">
+      <caption webpage="packaging_barres_glacees" alt=""/>
+      <caption webpage="identite_ctallboys" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboite" alt=""/>
+      <caption webpage="identite_sepaq" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="identite_visionnaire" alt=""/>
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="001-linkedin_poster_.png" crc="4117732026" ref="index"/>
+    <file name="ok.svg" crc="3979125217" seo="true" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact">
+      <caption webpage="packaging_barres_glacees" alt=""/>
+      <caption webpage="identite_ctallboys" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboite" alt=""/>
+      <caption webpage="identite_sepaq" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="identite_visionnaire" alt=""/>
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="ok_poster_.png" crc="172172100" ref="index"/>
+    <file name="logo.svg" crc="4010395101" seo="true" ref="index:cv:montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys:contact">
+      <caption webpage="packaging_barres_glacees" alt=""/>
+      <caption webpage="identite_ctallboys" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboite" alt=""/>
+      <caption webpage="identite_sepaq" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="identite_visionnaire" alt=""/>
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="362653020" ref="index"/>
+    <file name="fraises.svg" crc="224397769" seo="true" ref="cv">
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+      <caption webpage="cv" alt=""/>
+    </file>
+    <file name="fraises_poster_.png" crc="4255865729" ref="cv"/>
+    <file name="mtlcrea_01.jpg" crc="53550237" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys"/>
+    <file name="mtlcrea_09.jpg" crc="321371352" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_08.jpg" crc="3831164269" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_04.jpg" crc="4275323964" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_05.jpg" crc="231487493" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_06.jpg" crc="4000763783" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_07.jpg" crc="3899596481" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_03.jpg" crc="193674120" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_02.jpg" crc="57826382" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_0160x40.jpg" crc="201790061" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_0960x40.jpg" crc="4033432921" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_0860x40.jpg" crc="3979842324" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_0460x40.jpg" crc="137361286" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_0560x40.jpg" crc="340269413" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_0660x40.jpg" crc="4079824025" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_0760x40.jpg" crc="518784630" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_0360x40.jpg" crc="4198455058" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="mtlcrea_0260x40.jpg" crc="317770990" seo="true" ref="montreal_creatif">
+      <caption webpage="montreal_creatif" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="montreal_creatif:identite_sepaq:laboite:identite_visionnaire:packaging_barres_glacees:identite_ctallboys"/>
+    <file name="sepaq_12.jpg" crc="3777703098" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_11.jpg" crc="4196432141" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_04.jpg" crc="325289789" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_03.jpg" crc="441013490" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_02.jpg" crc="443161859" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_01.jpg" crc="3869856384" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_10.jpg" crc="4164738958" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_09.jpg" crc="3927403351" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_08.jpg" crc="196102211" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_07.jpg" crc="352471348" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_06.jpg" crc="184016017" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_05.jpg" crc="3846952148" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_1258x45.jpg" crc="184483732" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_1158x45.jpg" crc="44207342" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_0460x45.jpg" crc="3842370999" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_0360x45.jpg" crc="4047850481" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_0260x45.jpg" crc="4021434709" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_0160x45.jpg" crc="146033366" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_1060x45.jpg" crc="476809494" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_0960x45.jpg" crc="209251349" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_0860x45.jpg" crc="396903053" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_0760x45.jpg" crc="60057420" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_0660x45.jpg" crc="392071641" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="sepaq_0560x45.jpg" crc="4004617221" seo="true" ref="identite_sepaq">
+      <caption webpage="identite_sepaq" alt=""/>
+    </file>
+    <file name="collectifcreatif2016_01_7e4c-crop-u1694.jpg" crc="177075612" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="collectifcreatif2016_02_7e4c.jpg" crc="4023763366" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="collectifcreatif2016_06_7e4c.jpg" crc="474969317" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="collectifcreatif2016_07_7e4c.jpg" crc="427239873" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="collectifcreatif2016_10_7e4c-crop-u2393.jpg" crc="4097791734" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="img_0287-crop-u2413.jpg" crc="3955381052" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="img_0293-crop-u2433.jpg" crc="408760751" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="collectifcreatif2016_01_7e4c34x45.jpg" crc="75129659" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="collectifcreatif2016_02_7e4c60x43.jpg" crc="384923373" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="collectifcreatif2016_06_7e4c60x45.jpg" crc="428935904" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="collectifcreatif2016_07_7e4c60x45.jpg" crc="3960370489" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="collectifcreatif2016_10_7e4c34x45.jpg" crc="3946863136" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="img_028734x45.jpg" crc="157414803" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="img_029334x45.jpg" crc="328977022" seo="true" ref="laboite">
+      <caption webpage="laboite" alt=""/>
+    </file>
+    <file name="visionnaire_04.jpg" crc="3929071637" seo="true" ref="identite_visionnaire">
+      <caption webpage="identite_visionnaire" alt=""/>
+    </file>
+    <file name="visionnaire_01.jpg" crc="4275205002" seo="true" ref="identite_visionnaire">
+      <caption webpage="identite_visionnaire" alt=""/>
+    </file>
+    <file name="visionnaire_02.jpg" crc="4174093072" seo="true" ref="identite_visionnaire">
+      <caption webpage="identite_visionnaire" alt=""/>
+    </file>
+    <file name="visionnaire_03.jpg" crc="4244187232" seo="true" ref="identite_visionnaire">
+      <caption webpage="identite_visionnaire" alt=""/>
+    </file>
+    <file name="visionnaire_05.jpg" crc="3766177451" seo="true" ref="identite_visionnaire">
+      <caption webpage="identite_visionnaire" alt=""/>
+    </file>
+    <file name="visionnaire_0460x43.jpg" crc="179938290" seo="true" ref="identite_visionnaire">
+      <caption webpage="identite_visionnaire" alt=""/>
+    </file>
+    <file name="visionnaire_0160x40.jpg" crc="177675537" seo="true" ref="identite_visionnaire">
+      <caption webpage="identite_visionnaire" alt=""/>
+    </file>
+    <file name="visionnaire_0260x40.jpg" crc="282203499" seo="true" ref="identite_visionnaire">
+      <caption webpage="identite_visionnaire" alt=""/>
+    </file>
+    <file name="visionnaire_0360x40.jpg" crc="455613259" seo="true" ref="identite_visionnaire">
+      <caption webpage="identite_visionnaire" alt=""/>
+    </file>
+    <file name="visionnaire_0560x45.jpg" crc="405822453" seo="true" ref="identite_visionnaire">
+      <caption webpage="identite_visionnaire" alt=""/>
+    </file>
+    <file name="packaging_01.jpg" crc="3934093281" seo="true" ref="packaging_barres_glacees">
+      <caption webpage="packaging_barres_glacees" alt=""/>
+    </file>
+    <file name="packaging_02.jpg" crc="4032024764" seo="true" ref="packaging_barres_glacees">
+      <caption webpage="packaging_barres_glacees" alt=""/>
+    </file>
+    <file name="packaging_03.jpg" crc="4191389262" seo="true" ref="packaging_barres_glacees">
+      <caption webpage="packaging_barres_glacees" alt=""/>
+    </file>
+    <file name="packaging_0160x40.jpg" crc="4238916190" seo="true" ref="packaging_barres_glacees">
+      <caption webpage="packaging_barres_glacees" alt=""/>
+    </file>
+    <file name="packaging_0260x40.jpg" crc="101887726" seo="true" ref="packaging_barres_glacees">
+      <caption webpage="packaging_barres_glacees" alt=""/>
+    </file>
+    <file name="packaging_0360x41.jpg" crc="469991324" seo="true" ref="packaging_barres_glacees">
+      <caption webpage="packaging_barres_glacees" alt=""/>
+    </file>
+    <file name="ctallboys_04.jpg" crc="37001503" seo="true" ref="identite_ctallboys">
+      <caption webpage="identite_ctallboys" alt=""/>
+    </file>
+    <file name="ctallboys_02.jpg" crc="281716026" seo="true" ref="identite_ctallboys">
+      <caption webpage="identite_ctallboys" alt=""/>
+    </file>
+    <file name="ctallboys_01.jpg" crc="3921937537" seo="true" ref="identite_ctallboys">
+      <caption webpage="identite_ctallboys" alt=""/>
+    </file>
+    <file name="ctallboys_03.jpg" crc="323382445" seo="true" ref="identite_ctallboys">
+      <caption webpage="identite_ctallboys" alt=""/>
+    </file>
+    <file name="ctallboys_0468x46.jpg" crc="221585277" seo="true" ref="identite_ctallboys">
+      <caption webpage="identite_ctallboys" alt=""/>
+    </file>
+    <file name="ctallboys_0268x45.jpg" crc="3959617128" seo="true" ref="identite_ctallboys">
+      <caption webpage="identite_ctallboys" alt=""/>
+    </file>
+    <file name="ctallboys_0167x45.jpg" crc="496182987" seo="true" ref="identite_ctallboys">
+      <caption webpage="identite_ctallboys" alt=""/>
+    </file>
+    <file name="ctallboys_0368x45.jpg" crc="368163928" seo="true" ref="identite_ctallboys">
+      <caption webpage="identite_ctallboys" alt=""/>
+    </file>
+    <file name="002-mobile-phone.svg" crc="3966996574" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="002-mobile-phone_poster_.png" crc="306638283" ref="contact"/>
+    <file name="001-email.svg" crc="319605386" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="001-email_poster_.png" crc="400833693" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="4081781171" seo="true" mt="1525640351028" redirect="true"/>
+  <file name="cv.html" crc="3946763182" seo="true" mt="1525640998742" redirect="true"/>
+  <file name="montreal_creatif.html" crc="481083156" seo="true" mt="1525640351028" redirect="true"/>
+  <file name="identite_sepaq.html" crc="3975329487" seo="true" mt="1525640883635" redirect="true"/>
+  <file name="laboite.html" crc="357664105" seo="true" mt="1525640351028" redirect="true"/>
+  <file name="identite_visionnaire.html" crc="185699740" seo="true" mt="1525640351028" redirect="true"/>
+  <file name="packaging_barres_glacees.html" crc="3775542850" seo="true" mt="1525640781593" redirect="true"/>
+  <file name="identite_ctallboys.html" crc="87534281" seo="true" mt="1525640351028" redirect="true"/>
+  <file name="contact.html" crc="274779306" seo="true" mt="1525640351028" redirect="true"/>
+</manifest>
