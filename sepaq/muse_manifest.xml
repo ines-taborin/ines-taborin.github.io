@@ -1,0 +1,192 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="taborin.io/sepaq" resolutions="1x,2x" timestamp="1526940893233">
+  <folder name="css">
+    <file name="site_global.css" crc="289041930"/>
+    <file name="master_a-gabarit.css" crc="4269569950" ref="mot-du-président---conseil-d-administration:crédits:réseau-nature---parcs-nationaux:index:etats-financiers---situation-financière:la-sépaq-en-chiffres---activités-et-services"/>
+    <file name="mot-du-pr_sident---conseil-d-administration.css" crc="3874257127" ref="mot-du-président---conseil-d-administration"/>
+    <file name="iefonts_mot-du-pr_sident---conseil-d-administration.css" crc="148502051" ref="mot-du-président---conseil-d-administration"/>
+    <file name="cr_dits.css" crc="497543199" ref="crédits"/>
+    <file name="iefonts_cr_dits.css" crc="4249356609" ref="crédits"/>
+    <file name="r_seau-nature---parcs-nationaux.css" crc="334297930" ref="réseau-nature---parcs-nationaux"/>
+    <file name="iefonts_r_seau-nature---parcs-nationaux.css" crc="4249356609" ref="réseau-nature---parcs-nationaux"/>
+    <file name="index.css" crc="4088789744" ref="index"/>
+    <file name="iefonts_index.css" crc="4086889428" ref="index"/>
+    <file name="etats-financiers---situation-financi_re.css" crc="519881765" ref="etats-financiers---situation-financière"/>
+    <file name="iefonts_etats-financiers---situation-financi_re.css" crc="4249356609" ref="etats-financiers---situation-financière"/>
+    <file name="la-s_paq-en-chiffres---activit_s-et-services.css" crc="396061079" ref="la-sépaq-en-chiffres---activités-et-services"/>
+    <file name="iefonts_la-s_paq-en-chiffres---activit_s-et-services.css" crc="313594604" ref="la-sépaq-en-chiffres---activités-et-services"/>
+  </folder>
+  <folder name="assets">
+    <file name="morning-in-the-forest--ambience--hd.mp3" crc="155815816" seo="true" mt="1525286212000"/>
+    <file name="lib.ico" crc="4142348132" seo="true" mt="1525274716000"/>
+    <file name="snippet_31113aa46.idms" crc="223793327" seo="true" mt="1526929736000"/>
+    <file name="graph_01.eps" crc="3923351738" seo="true" mt="1524070552000"/>
+    <file name="graph_02.eps" crc="402948853" seo="true" mt="1524070622000"/>
+    <file name="graph_03.eps" crc="167198915" seo="true" mt="1524070662000"/>
+    <file name="rapport_annuel.pdf" crc="197152456" seo="true" mt="1526934772000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits"/>
+    <file name="museutils.js" crc="340535759" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits"/>
+    <file name="whatinput.js" crc="86476730" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits"/>
+    <file name="museconfig.js" crc="310584261" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits"/>
+    <file name="require.js" crc="7928878" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4156991697" ref="index"/>
+    <file name="photo_12-crop-u94.jpg" crc="3914846915" seo="true" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits">
+      <caption webpage="index" alt=""/>
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+      <caption webpage="crédits" alt=""/>
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="photo_12-crop-u94_2x.jpg" crc="4100787025" seo="true" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits">
+      <caption webpage="index" alt=""/>
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+      <caption webpage="crédits" alt=""/>
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="6g1_01_logo_rvb_taborini.jpg" crc="462008252" seo="true" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits">
+      <caption webpage="index" alt=""/>
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+      <caption webpage="crédits" alt=""/>
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="moose_final.svg" crc="235362574" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="moose_final_poster_.png" crc="4156660297" ref="index"/>
+    <file name="pdf.svg" crc="321948991" seo="true" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits">
+      <caption webpage="index" alt=""/>
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+      <caption webpage="crédits" alt=""/>
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="pdf_poster_.png" crc="3867513266" ref="index"/>
+    <file name="001-twitter.svg" crc="3767525402" seo="true" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits">
+      <caption webpage="index" alt=""/>
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+      <caption webpage="crédits" alt=""/>
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="001-twitter_poster_.png" crc="4029314955" ref="index"/>
+    <file name="facebook.svg" crc="4272971305" seo="true" ref="index:mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière:crédits">
+      <caption webpage="index" alt=""/>
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+      <caption webpage="crédits" alt=""/>
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="facebook_poster_.png" crc="4196471041" ref="index"/>
+    <file name="photo_11-crop-u502.jpg" crc="169576898" seo="true" ref="mot-du-président---conseil-d-administration">
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="photo_11-crop-u502_2x.jpg" crc="358724106" seo="true" ref="mot-du-président---conseil-d-administration">
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="signature_ines-crop-u534.png" crc="85462058" seo="true" ref="mot-du-président---conseil-d-administration">
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="signature_ines-crop-u534_2x.png" crc="267521102" seo="true" ref="mot-du-président---conseil-d-administration">
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="frise.svg" crc="4186515263" seo="true" ref="mot-du-président---conseil-d-administration:la-sépaq-en-chiffres---activités-et-services:réseau-nature---parcs-nationaux:etats-financiers---situation-financière">
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="frise_poster_.png" crc="297235718" ref="mot-du-président---conseil-d-administration"/>
+    <file name="organigramme.svg" crc="511916872" seo="true" ref="mot-du-président---conseil-d-administration">
+      <caption webpage="mot-du-président---conseil-d-administration" alt=""/>
+    </file>
+    <file name="organigramme_poster_.png" crc="474964219" ref="mot-du-président---conseil-d-administration"/>
+    <file name="enchiffre.svg" crc="253024851" seo="true" ref="la-sépaq-en-chiffres---activités-et-services">
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+    </file>
+    <file name="enchiffre_poster_.png" crc="350120727" ref="la-sépaq-en-chiffres---activités-et-services"/>
+    <file name="photo_01-crop-u927.jpg" crc="445922088" seo="true" ref="la-sépaq-en-chiffres---activités-et-services">
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+    </file>
+    <file name="photo_01-crop-u927_2x.jpg" crc="4101324653" seo="true" ref="la-sépaq-en-chiffres---activités-et-services">
+      <caption webpage="la-sépaq-en-chiffres---activités-et-services" alt=""/>
+    </file>
+    <file name="photo_02-crop-u1055.jpg" crc="3891943572" seo="true" ref="réseau-nature---parcs-nationaux">
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+    </file>
+    <file name="photo_02-crop-u1055_2x.jpg" crc="136562425" seo="true" ref="réseau-nature---parcs-nationaux">
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+    </file>
+    <file name="photo_10-crop-u1089.jpg" crc="21100739" seo="true" ref="réseau-nature---parcs-nationaux">
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+    </file>
+    <file name="photo_10-crop-u1089_2x.jpg" crc="318555250" seo="true" ref="réseau-nature---parcs-nationaux">
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+    </file>
+    <file name="graph_01.svg" crc="155527928" seo="true" ref="réseau-nature---parcs-nationaux">
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+    </file>
+    <file name="graph_01_poster_.png" crc="4294685911" ref="réseau-nature---parcs-nationaux"/>
+    <file name="graph_02.svg" crc="317833561" seo="true" ref="réseau-nature---parcs-nationaux">
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+    </file>
+    <file name="graph_02_poster_.png" crc="3783461541" ref="réseau-nature---parcs-nationaux"/>
+    <file name="graph_03.svg" crc="4229752849" seo="true" ref="réseau-nature---parcs-nationaux">
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+    </file>
+    <file name="graph_03_poster_.png" crc="4148367832" ref="réseau-nature---parcs-nationaux"/>
+    <file name="photo_03-crop-u1189.jpg" crc="3772393613" seo="true" ref="réseau-nature---parcs-nationaux">
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+    </file>
+    <file name="photo_03-crop-u1189_2x.jpg" crc="4151237732" seo="true" ref="réseau-nature---parcs-nationaux">
+      <caption webpage="réseau-nature---parcs-nationaux" alt=""/>
+    </file>
+    <file name="tableau_01.svg" crc="4270133391" seo="true" ref="etats-financiers---situation-financière">
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+    </file>
+    <file name="tableau_01_poster_.png" crc="59974327" ref="etats-financiers---situation-financière"/>
+    <file name="tableau_02.svg" crc="4262773539" seo="true" ref="etats-financiers---situation-financière">
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+    </file>
+    <file name="tableau_02_poster_.png" crc="312013908" ref="etats-financiers---situation-financière"/>
+    <file name="signature_ines148x100.png" crc="483656902" seo="true" ref="etats-financiers---situation-financière">
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+    </file>
+    <file name="signature_ines148x100_2x.png" crc="70152184" seo="true" ref="etats-financiers---situation-financière">
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+    </file>
+    <file name="signature_ines_02.jpg" crc="3902217654" seo="true" ref="etats-financiers---situation-financière">
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+    </file>
+    <file name="signature_ines_02_2x.jpg" crc="292446582" seo="true" ref="etats-financiers---situation-financière">
+      <caption webpage="etats-financiers---situation-financière" alt=""/>
+    </file>
+    <file name="photo_06.jpg" crc="4100365466" seo="true" ref="crédits">
+      <caption webpage="crédits" alt=""/>
+    </file>
+    <file name="photo_06_2x.jpg" crc="4161488358" seo="true" ref="crédits">
+      <caption webpage="crédits" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4232036735" seo="true" mt="1526940100384" redirect="true"/>
+  <file name="mot-du-président---conseil-d-administration.html" crc="3779961687" seo="true" mt="1526940100384" redirect="true"/>
+  <file name="la-sépaq-en-chiffres---activités-et-services.html" crc="4039866340" seo="true" mt="1526940100384" redirect="true"/>
+  <file name="réseau-nature---parcs-nationaux.html" crc="4136639328" seo="true" mt="1526940100384" redirect="true"/>
+  <file name="etats-financiers---situation-financière.html" crc="214787001" seo="true" mt="1526940100384" redirect="true"/>
+  <file name="crédits.html" crc="4182768900" seo="true" mt="1526940100384" redirect="true"/>
+</manifest>
